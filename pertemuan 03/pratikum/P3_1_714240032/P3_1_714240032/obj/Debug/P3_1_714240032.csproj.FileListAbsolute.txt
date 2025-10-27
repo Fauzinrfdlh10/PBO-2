@@ -1,0 +1,7 @@
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\bin\Debug\P3_1_714240032.exe.config
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\bin\Debug\P3_1_714240032.exe
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\bin\Debug\P3_1_714240032.pdb
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\obj\Debug\P3_1_714240032.csproj.AssemblyReference.cache
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\obj\Debug\P3_1_714240032.csproj.CoreCompileInputs.cache
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\obj\Debug\P3_1_714240032.exe
+C:\Users\nurfa\source\repos\P3_1_714240032\P3_1_714240032\obj\Debug\P3_1_714240032.pdb
