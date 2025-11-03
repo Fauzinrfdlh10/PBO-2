@@ -1,0 +1,15 @@
+Bagian 1
+
+14. property atau field myType belum dibuat di class Product_714240032, sehingga kode myProduct.myType tidak dikenali.​ jadi harus dibuat dlu field myTypenya
+
+19. karena pada class product test constructor hanya membutuhkan parameter title saja. untuk properti Mytype tidak perlu diberikan saat pembuatan objek.
+
+24. Yang muncul di layar hanyalah kata DVD karena pada method atau class yang digunakan untuk menampilkan output, perintah print atau Console.WriteLine memang hanya memanggil satu property atau value, belum menggabungkan detail lain dari objek tersebut.
+
+Bagian 2
+
+8. Tipe dan judul buku tidak muncul karena nilai untuk properti tersebut belum diberikan di class induk saat pembuatan objek, sehingga hasil cetak kosong. harus menggunakan inheritance agar anak mengambil properti dari induk, tapi nilainya harus diisi dulu lewat konstruktor agar tampil di output.
+
+12. karena sudah menambahkan base(type, title) / memanggil class induk 
+
+19. karena pada class DVD , nilai tipe ("DVD") langsung ditetapkan di dalam constructor, sedangkan pada class Book tipe dan atribut lainnya harus dikirim lewat parameter saat membuat objek.
