@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nurfa\\Documents\\bagas\\PEMOGRAMMAN-2-PBO-main\\Pertemuan05\\Pratikum\\P5_1_714240032\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\P5_1_714240032.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P5_1_714240032.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-11-10T13:06:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-10T13:06:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAmJmZmZkuwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAcAAACwMjMzMzMbwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:05:53.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P5_1_714240032.csproj",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\P5_1_714240032.csproj",
+              "RelativeDocumentMoniker": "P5_1_714240032.csproj",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\P5_1_714240032.csproj",
+              "RelativeToolTip": "P5_1_714240032.csproj",
+              "ViewState": "AgIAAC0AAAAAMDMzMzMLwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T13:05:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:05:33.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:05:30.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nurfa\\Documents\\PBO-2\\PBO-2\\Pertemuan05\\Praktikum\\P5_1_714240032\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:05:23.292Z",
+              "EditorCaption": ""
             }
           ]
         }

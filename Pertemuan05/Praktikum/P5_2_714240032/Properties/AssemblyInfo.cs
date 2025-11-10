@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("P5_1_714240032")]
+[assembly: AssemblyTitle("P5_2_714240032")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ReviOS 11 25.10")]
-[assembly: AssemblyProduct("P5_1_714240032")]
+[assembly: AssemblyProduct("P5_2_714240032")]
 [assembly: AssemblyCopyright("Copyright © ReviOS 11 25.10 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8eca75f2-a368-428e-b0f0-ddec03aff519")]
+[assembly: Guid("3b9eb81a-2906-4218-b714-d64753def9b1")]
 
 // Version information for an assembly consists of the following four values:
 //
