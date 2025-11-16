@@ -1,8 +1,9 @@
-# Ignore VS/VSCode & build cache
-.vs/
-*.vsidx
-*.user
-*.suo
-*.vscode/
-bin/
-obj/
+# Dependencies
+.psci_modules
+.spago
+bower_components
+node_modules
+
+# Generated files
+.psci
+output

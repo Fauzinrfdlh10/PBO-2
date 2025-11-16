@@ -1,0 +1,10 @@
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\bin\Debug\P5_3_714240032.exe.config
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\bin\Debug\P5_3_714240032.exe
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\bin\Debug\P5_3_714240032.pdb
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.csproj.AssemblyReference.cache
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.Form1.resources
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.Properties.Resources.resources
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.csproj.GenerateResource.cache
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.csproj.CoreCompileInputs.cache
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.exe
+C:\Users\nurfa\Documents\PBO-2\PBO-2\Pertemuan05\Praktikum\P5_3_714240032\obj\Debug\P5_3_714240032.pdb

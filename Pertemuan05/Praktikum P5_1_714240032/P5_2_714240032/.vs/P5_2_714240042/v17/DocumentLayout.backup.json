@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|d:\\kegabutan\\pemogramman-2-pbo\\pertemuan05\\pratikum\\p5_2_714240042\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|d:\\kegabutan\\pemogramman-2-pbo\\pertemuan05\\pratikum\\p5_2_714240042\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|d:\\kegabutan\\pemogramman-2-pbo\\pertemuan05\\pratikum\\p5_2_714240042\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|d:\\kegabutan\\pemogramman-2-pbo\\pertemuan05\\pratikum\\p5_2_714240042\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9EB81A-2906-4218-B714-D64753DEF9B1}|P5_2_714240042.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ChildForm.cs [Design]",
+              "RelativeToolTip": "ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:27:39.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ChildForm.cs",
+              "RelativeToolTip": "ChildForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:38:50.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ParentForm.cs",
+              "RelativeDocumentMoniker": "ParentForm.cs",
+              "ToolTip": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ParentForm.cs",
+              "RelativeToolTip": "ParentForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:24:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ParentForm.cs",
+              "RelativeDocumentMoniker": "ParentForm.cs",
+              "ToolTip": "D:\\Kegabutan\\PEMOGRAMMAN-2-PBO\\Pertemuan05\\Pratikum\\P5_2_714240042\\ParentForm.cs [Design]",
+              "RelativeToolTip": "ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:49:13.974Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
